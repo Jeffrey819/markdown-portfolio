@@ -1,1 +1,5 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+*I am Jeffrey*
+
+**I am From CUHK**
+
+_*You* **can** combine them_
