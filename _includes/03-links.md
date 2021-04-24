@@ -1,1 +1,1 @@
-Replace this with a link to your a GitHub or social media profile.
+[6th step of this course]https://github.com/Jeffrey819/markdown-portfolio/pull/3
